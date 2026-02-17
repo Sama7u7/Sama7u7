@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy Alberto Samayoa , resido en Mexico, estudiante en Ingeniería  en sistemas computacionales.<br><br>- 🔭 Estoy trabajando en automatizacion y control de germinadores.<br>- 📚 Actuamente estoy aprendiendo: Node.js.<br>- ⚡ Mis pasatiempos son el ciclismo, la fotografia y todo lo relacionado con la multimedia.</p>
+<p align="left">Soy Alberto Samayoa , resido en Mexico,  Ingeniero  en sistemas computacionales.<br><br>- 🔭 Estoy trabajando en automatizacion y control de germinadores.<br>- 📚 Actuamente estoy aprendiendo: Node.js.<br>- ⚡ Mis pasatiempos son el ciclismo, la fotografia y todo lo relacionado con la multimedia.</p>
 
 ###
 
